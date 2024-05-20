@@ -7,6 +7,11 @@ struct Point
 	int y;
 };
 
+void Test()
+{
+	cout << "Test\n";
+}
+
 int main()
 {
 
